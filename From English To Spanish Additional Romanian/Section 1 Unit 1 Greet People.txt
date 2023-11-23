@@ -1,0 +1,20 @@
+Bună/Salut. = Hello/Hi. = Hola.
+Pa/La revedere! =  Bye/Goodbye! = ¡Adiós!
+Mersi/Mulțumesc. = Thanks/Thank you. = Gracias.
+Încântat(ă) să te cunosc. = Nice to meet you. = Mucho gusto.
+Bună dimineața! = Good morning! = ¡Buenos días!
+Noapte bună! = Good night! = ¡Buenas noches!
+
+Cu plăcere. = You're welcome. = De nada.
+Pardon? = Pardon (me)? = ¿Perdón?
+Îmi pare rău. = Sorry/I'm sorry. = Lo siento.
+Nu, mulțumesc. = No, thank you. = No, gracias.
+Da, te rog. = Yes, please. = Sí, por favor.
+
+română = romanian = rumano
+engleză = english = inglés
+spaniolă = spanish = español
+Scuză-mă. = Excuse me. = Disculpe.
+Eu vorbesc engleza/limba engleză. = I speak English. = Yo hablo inglés.
+Tu vorbești engleza? = Do you speak English? = ¿Tú hablas inglés?
+
