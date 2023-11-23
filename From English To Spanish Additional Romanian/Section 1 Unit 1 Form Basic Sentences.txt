@@ -1,0 +1,28 @@
+bărbatul = the man = el hombre
+fata = the girl = la niña
+băiatul = the boy = el niño
+femeia = the woman = la mujer
+o fată = a girl = una niña
+un bărbat = a man = un hombre
+Eu sunt un băiat. = I am a boy. = Yo soy un niño.
+
+mărul = the apple = la manzana
+Tu ești Ana. = You're Ana. = Tú eres Ana.
+Tu ești Juan. = You're Juan. = Tú eres Juan.
+Tu ești José. = You're José. = Tú eres José.
+Tu ești María. = You're María. = Tú eres María.
+El este un băiat. = He is a boy. = Él es un niño.
+Ea este o fată. = She is a girl. = Ella es una niña.
+El mănâncă mere. = He eats apples. = Él come manzanas.
+
+laptele = the milk = la leche
+pâinea = the bread = el pan
+apa = the water = el agua
+Eu mănânc pâine. = I eat bread. = Yo como pan.
+Eu beau apă. = I drink water. = Yo bebo agua.
+Tu bei apă? = Do you drink water? = ¿Tú bebes agua?
+Tu mănânci mere? = Do you eat apples? = ¿Tú comes manzanas?
+Femeia bea apă. = The woman drinks water. = La mujer bebe agua.
+Eu mănânc, tu mănânci, el mănâncă. = I eat, you eat, he eats. = Yo como, tú comes, él come.
+Eu beau, tu bei, el bea. = I drink, you drink, he drinks. = Yo bebo, tú bebes, él bebe.
+
