@@ -17,4 +17,5 @@ spaniolă = spanish = español
 Scuză-mă. = Excuse me. = Disculpe.
 Eu vorbesc engleza/limba engleză. = I speak English. = Yo hablo inglés.
 Tu vorbești engleza? = Do you speak English? = ¿Tú hablas inglés?
+El vorbește limba engleză. = He speaks English. = Él habla inglés.
 

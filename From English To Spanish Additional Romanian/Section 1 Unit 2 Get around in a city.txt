@@ -1,0 +1,40 @@
+taxi-ul = the taxi = el taxi
+pașaportul = the passport = el pasaporte
+telefonul = the phone = el teléfono
+valiza = the suitcase = la maleta
+taxi-ul meu = my taxi = mi taxi
+valiza mea = my suitcase = mi maleta
+Am nevoie de apă. = I need water. = Yo necesito agua.
+
+hotelul = the hotel = el hotel
+Unde? = Where? = ¿Dónde?
+În taxi. = In the taxi. = En el taxi.
+Rezervarea mea. = My reservation. = Mi reserva.
+Eu am o valiză. = I have a suitcase. = Yo tengo una maleta.
+Eu am o rezervare la hotel. = I have a reservation at the hotel. = Yo tengo una reserva en el hotel.
+Taxi-ul este aici. = The taxi is here. = El taxi está aquí.
+Bărbatul este la hotel. = The man is at the hotel. = El hombre está en el hotel.
+Unde este pașaportul? = Where is the passport? = ¿Dónde está el pasaporte?
+
+autobuzul = the bus = el autobús
+banii = the money = el dinero
+banii mei = my money = mi dinero
+Am nevoie de bani. = I need money. = Yo necesito dinero.
+trenul = the train = el tren
+aeroportul = the airport = el aeropuerto
+La aeroport = At the airport = En el aeropuerto
+Un bilet, te rog. = A ticket, please. = Un boleto, por favor.
+Un bilet spre Madrid. = A ticket to Madrid. = Un boleto a Madrid.
+Unde este pașaportul tău. = Where is your passport? = ¿Dónde está tu pasaporte?
+Banii tai. = Your money. = Tu dinero.
+
+spitalul = the hospital = el hospital
+În spital. = In the hospital. = En el hospital.
+banca = the bank = el banco
+muzeul = the museum = el museo
+baia = the bathroom = el baño
+strada mea = my street = mi calle
+un supermarket = a supermarket = un supermercado
+Hotelul este închis. = The hotel is closed. = El hotel está cerrado.
+O stradă = A street = Una calle
+
