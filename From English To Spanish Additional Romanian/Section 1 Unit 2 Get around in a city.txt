@@ -26,6 +26,7 @@ La aeroport = At the airport = En el aeropuerto
 Un bilet, te rog. = A ticket, please. = Un boleto, por favor.
 Un bilet spre Madrid. = A ticket to Madrid. = Un boleto a Madrid.
 Unde este pașaportul tău. = Where is your passport? = ¿Dónde está tu pasaporte?
+Pașaportul, te rog. = Passport, please. = El pasaporte, por favor. 
 Banii tai. = Your money. = Tu dinero.
 
 spitalul = the hospital = el hospital
