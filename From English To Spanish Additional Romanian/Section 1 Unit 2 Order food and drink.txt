@@ -1,0 +1,35 @@
+unu = one = uno
+doi = two = dos
+trei = three = tres
+restaurantul = the restaurant = el restaurante
+oamenii = the people = las personas
+Pentru două persoane. = For two people. = Para dos personas.
+masa = the table = la mesa
+O masă pentru trei persoane, te rog. = A table for three people, please. = Una mesa para tres personas, por favor.
+
+brânza = the cheese = el queso
+sandviciul = the sandwich = el sándwich
+Cu brânză. = With cheese. = Con queso.
+peștele = the fish = el pescado
+carnea = the meat = la carne
+Un sandvici cu brânza. = A cheese sandwich. = Un sándwich de queso.
+Un hamburger, te rog. = A burger, please. = Una hamburguesa, por favor.
+Eu mănânc un hamburger cu carne. = I eat a burger with meat. = Yo como una hamburguesa con carne.
+
+zahărul = the sugar = el azúcar
+cafeaua = the coffee = el café
+ceașca = the cup = la taza
+sucul = the juice = el jugo
+portocala = the orange = la naranja
+Un suc de portocale. = An orange juice. = Un jugo de naranja.
+paharul = the glass = el vaso
+Un pahar cu apă, te rog. = A glass of water, please. = Un vaso de agua, por favor.
+O cafea fără zahăr. = A coffee without sugar. = Un café sin azucar.
+
+roșia = the tomato = el tomate
+salata = the salad = la ensalada
+sarea = the salt = la sal
+Una sau două/Unu sau doi? = One or two? = ¿Uno o dos?
+Nota, vă rog. = The check, please. = La cuenta, por favor.
+Eu vreau să plătesc nota. = I want to pay the check. = Yo quiero pagar la cuenta.
+Eu vreau o ceașcă de cafea. = I want a cup of coffee. = Yo quiero una taza de café.
