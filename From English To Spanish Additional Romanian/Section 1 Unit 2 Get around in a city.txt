@@ -37,5 +37,6 @@ baia = the bathroom = el baño
 strada mea = my street = mi calle
 un supermarket = a supermarket = un supermercado
 Hotelul este închis. = The hotel is closed. = El hotel está cerrado.
+Pe stradă. = In the street. = En la calle.
 O stradă = A street = Una calle
 

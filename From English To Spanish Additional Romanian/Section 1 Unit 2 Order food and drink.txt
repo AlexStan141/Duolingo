@@ -6,6 +6,7 @@ oamenii = the people = las personas
 Pentru două persoane. = For two people. = Para dos personas.
 masa = the table = la mesa
 O masă pentru trei persoane, te rog. = A table for three people, please. = Una mesa para tres personas, por favor.
+Un restaurant spaniol. = A Spanish restaurant. = Un restaurante español.
 
 brânza = the cheese = el queso
 sandviciul = the sandwich = el sándwich

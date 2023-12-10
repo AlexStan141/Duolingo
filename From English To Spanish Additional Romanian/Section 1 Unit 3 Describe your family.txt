@@ -1,0 +1,33 @@
+mașina = the car = el carro
+tatăl = the father = el padre
+casa = the house = la casa
+mama = the mother = la madre
+El este elegant. = He is elegant. = Él es elegante.
+El are o mașină. = He has a car. = Él tiene un carro.
+Ea este inteligentă. = She is intelligent. = Ella es inteligente.
+
+câinele = the dog = el perro
+pisica = the cat = el gato
+sora = the sister = la hermana
+fratele = the brother = el hermano
+foarte elegant = very elegant = muy elegante
+Casa mea este mare. = My house is big. = Mi casa es grande.
+Mașina mea este drăguță. = My car is pretty. = Mi carro es bonito.
+
+familia = the family = la familia
+bunicul = the grandfather = el abuelo
+bunica = the grandmother = la abuela
+soția = the wife = la esposa
+soțul = the husband = el esposo
+perfect = perfect = perfecto
+apartamentul = the apartment = el apartamento
+
+bicicleta = the bicycle = la bicicleta
+fiul = the son = el hijo
+fiica = the daughter = la hija
+Eu locuiesc aici. = I live here. = Yo vivo aquí.
+Eu nu locuiesc în Franța. = I don't live in France. = Yo no vivo en Francia.
+Foarte interesant. = Very interesting. = Muy interesante.
+O pisică și un câine. = Un gato y un perro. = A cat and a dog.
+Ai un frate? = Do you have a brother? = ¿Tienes un hermano?
+
